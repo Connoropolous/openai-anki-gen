@@ -2,7 +2,9 @@
 
 pip install pydantic openai flask
 
-python main.py
+edit main.py to include your openai api key.
+
+Run `python main.py`
 
 open localhost service in browser
 

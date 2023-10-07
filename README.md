@@ -1,6 +1,6 @@
 # openai-anki-gen
 
-pip install pydantic openai flask
+Run `pip install pydantic openai flask genanki`
 
 edit main.py to include your openai api key.
 
